@@ -6,7 +6,7 @@
     <servers>
         <server>
             <id>github</id>
-            <username>your-username</username>
+            <username>shiyasbsoft4-art</username>
             <password>${env.GITHUB_TOKEN}</password>
         </server>
     </servers>
